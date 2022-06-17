@@ -1,0 +1,28 @@
+body {
+  background-color: #21232A;
+  color: #fff;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+  padding: 10px 60px 60px 60px; 
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.elden-ring-logo{
+  width: 70px;
+  height: 70px;
+}
+
+.list-group-mine .list-group-item {
+  background-color: #21232A;
+  color: #fff;
+  border-top: 1px solid #0091b5;
+  border-left-color: #fff;
+  border-right-color: #fff;
+}
+
